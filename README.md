@@ -17,6 +17,13 @@
 # under the License.
 #
 
+**DEPRECATION NOTICE**
+
+This repository is deprecated.
+Active development now continues in the [ResilientDB Monorepo](https://github.com/apache/incubator-resilientdb).
+
+The Resault SDK can be found at [ecosystem/sdk/resvault-sdk](https://github.com/apache/incubator-resilientdb/tree/master/ecosystem/sdk/resvault-sdk).
+
 # ResVault SDK
 **License**: Apache-2.0
 
